@@ -87,6 +87,8 @@ In static property functions, you can use any static method or property of these
 - System.StringComparer
 - System.TimeSpan
 - System.Text.RegularExpressions.Regex
+- System.UriBuilder
+- System.Version
 - Microsoft.Build.Utilities.ToolLocationHelper
 
  In addition, you can use the following static methods and properties:
